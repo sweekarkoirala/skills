@@ -1,13 +1,6 @@
 ---
 name: tailwind-class-sorter
-description: >
-  Reorders messy or unsorted Tailwind CSS utility classes into a strict, readable hierarchy:
-  Layout → Spacing → Sizing → Typography → Visual (Colors, Borders, Effects).
-  Use this skill whenever the user mentions sorting, ordering, or cleaning up Tailwind classes,
-  or pastes JSX/HTML with className/class attributes that look unorganized. Also trigger when
-  the user asks to "clean up", "tidy", "organize", or "standardize" Tailwind utility classes —
-  even if they don't explicitly say "sort". If the user pastes a component and says it looks messy
-  or hard to read, check if Tailwind classes are the culprit and apply this skill.
+description: Reorders messy or unsorted Tailwind CSS utility classes into a strict, readable hierarchy like Layout → Spacing → Sizing → Typography → Visual (Colors, Borders, Effects). Use this skill whenever the user mentions sorting, ordering, or cleaning up Tailwind classes,or pastes JSX/HTML with className/class attributes that look unorganized. Also trigger when the user asks to "clean up", "tidy", "organize", or "standardize" Tailwind utility classes —even if they don't explicitly say "sort". If the user pastes a component and says it looks messyor hard to read, check if Tailwind classes are the culprit and apply this skill.
 category: "Design"
 ---
 
